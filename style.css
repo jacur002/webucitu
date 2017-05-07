@@ -18,6 +18,7 @@ ul > li {
 	display: inline-block;
 	zoom:1;
 	margin: auto;
+	padding: 20px;
 }
 .header{
 	background-image:url("space.jpg");
