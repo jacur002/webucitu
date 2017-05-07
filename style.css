@@ -1,5 +1,11 @@
 body {
 	text-allign:center;
-	font-family:creepster,arial;
+	font-family: 'Creepster', cursive;
 	color:rgb(5,89,450);
+}
+ul{
+	text-allign:center;
+	font-family: 'Creepster', cursive;
+	color:rgb(5,89,450);
+}
 }
