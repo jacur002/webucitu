@@ -12,7 +12,7 @@ ul{
 	color:rgb(5,89,450);
 }
 .header{
-	background-image: url("https://github.com/jacur002/webucitu/blob/master/space.jpg");
+	background-image:url("webcitu/space.jpg");
 height: 500px;
 background-position: center center;
 }
