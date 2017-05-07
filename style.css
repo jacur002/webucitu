@@ -8,6 +8,9 @@ body {
 }
 li{
 	list-style-type: none;
+	display: inline-block;
+	zoom:1;
+	display:inline;
 }
 ul{
 	text-allign:center;
@@ -27,7 +30,6 @@ background-size: : cover;
 	top:0;
 	text-align:center;
 	width: 100%;
-	display: inline;
-	list-style-type: none;
+	
 
 }
