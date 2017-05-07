@@ -8,4 +8,6 @@ ul{
 	font-family: 'Creepster', cursive;
 	color:rgb(5,89,450);
 }
+.header{
+	background-image: src="space.jpg";
 }
