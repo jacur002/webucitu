@@ -14,5 +14,5 @@ ul{
 .header{
 	background-image:url("webcitu/space.jpg");
 height: 500px;
-background-position: center center;
+background-size: : cover;
 }
