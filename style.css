@@ -6,6 +6,9 @@ body {
 	font-family: 'Creepster', cursive;
 	color:rgb(5,89,450);
 }
+li{
+	list-style-type: none;
+}
 ul{
 	text-allign:center;
 	font-family: 'Creepster', cursive;
@@ -24,5 +27,6 @@ background-size: : cover;
 	top:0;
 	text-align:center;
 	width: 100%;
+	display: inline-block;
 
 }
