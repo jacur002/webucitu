@@ -18,12 +18,12 @@ ul > li {
 	display: inline-block;
 	zoom:1;
 	margin: auto;
-	padding: 50px;
+	padding: 100px;
 }
 .header{
 	background-image:url("space.jpg");
 height: 1000px;
-background-size: : 100% 100%;
+background-size: : cover;
 }
 .navigation{
 	background-color: rgba(255,255,255,0.5);
