@@ -46,3 +46,34 @@ h1{
 	font-family: comic sans, cursive;
 	color:rgb(5,89,450);
 }
+.aboutme{
+		background-color: rgb(255,255,255)
+	text-allign:center;
+	font-family: comic sans, cursive;
+	color:rgb(5,89,450);
+}
+.aboutmehead{
+	background-image:url("about me.jpg"); 
+height:600px;
+background-size: cover;
+text-align: center;
+padding-top: 150px;
+font-family: Georgia;
+Color:rgb(255,255,255);
+}
+.suggestions{
+	background-color: rgb(255,255,255)
+	text-allign:center;
+	font-family: comic sans, cursive;
+	color:rgb(5,89,450);
+}
+.suggestionshead{
+	background-image:url("suggestions.jpg"); 
+height:600px;
+background-size: cover;
+text-align: center;
+padding-top: 150px;
+font-family: Georgia;
+Color:rgb(255,255,255);
+}
+}
