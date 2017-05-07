@@ -21,7 +21,7 @@ ul > li {
 .header{
 	height::400px 
 
-background-image:url("space.jpg") no-repeat center; 
+background-image:url("space.jpg"); 
 background-size: : cover;
 background-attachment: fixed;
 }
