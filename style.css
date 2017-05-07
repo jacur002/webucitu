@@ -23,7 +23,6 @@ ul > li {
 .header{
 	background-image:url("space.jpg");
 background-size: : cover;
-height:500px;
 }
 .navigation{
 	background-color: rgba(255,255,255,0.5);
