@@ -4,6 +4,7 @@ body {
 	text-allign:center;
 	font-family: 'Creepster', cursive;
 	color:rgb(5,89,450);
+	margin:0;
 }
 li{
 	list-style-type: none;
