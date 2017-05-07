@@ -8,14 +8,15 @@ body {
 }
 li{
 	list-style-type: none;
-	display: inline-block;
-	zoom:1;
-	display:inline;
 }
 ul{
 	text-allign:center;
 	font-family: 'Creepster', cursive;
 	color:rgb(5,89,450);
+}
+ul > li {
+	display: inline-block;
+	zoom:1;
 }
 .header{
 	background-image:url("space.jpg");
