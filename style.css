@@ -18,11 +18,11 @@ ul > li {
 	display: inline-block;
 	zoom:1;
 	margin: auto;
-	padding: 20px;
+	padding: 50px;
 }
 .header{
 	background-image:url("space.jpg");
-height: 500px;
+height: 100%;
 background-size: : cover;
 }
 .navigation{
